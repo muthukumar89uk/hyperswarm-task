@@ -1,0 +1,24 @@
+{
+  "name": "hyperswarmtask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hyperswarm/rpc": "^3.3.2",
+    "corestore": "^6.18.3",
+    "hyperbee": "^2.20.0",
+    "hypercore": "^10.37.12",
+    "hyperdrive": "^11.8.1",
+    "hyperswarm": "^4.8.1",
+    "leveldown": "^6.1.1",
+    "mz": "^2.7.0",
+    "path": "^0.12.7",
+    "random-access-memory": "^6.2.1",
+    "uuid": "^10.0.0"
+  }
+}
